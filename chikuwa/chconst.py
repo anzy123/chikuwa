@@ -1,0 +1,3 @@
+RADIUS = 20
+TEXT_SIZE = 10
+VERSION = '1.0'
